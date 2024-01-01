@@ -6,3 +6,5 @@ This is a front-end project built using the JavaScript framework React. The late
 1. Search for order details
 2. Edit or delete items from the order cart
 
+## Preview Of the application:
+<img width="1467" alt="Screenshot 2024-01-01 at 10 57 08 PM" src="https://github.com/priyanshtiwari001/fact-react-pizza/assets/64392162/b59bcecf-73c4-49b4-a36c-acbdb8155feb">
