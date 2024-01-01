@@ -1,3 +1,8 @@
 # [Live Demo](https://fast-react-pizza.netlify.app/)
 
-This is a frontend project which is build on a javascript framework called React. I used the latest tech stack to build this application like react-router-dom, tailwind css, redux,redux-toolkit.
+This is a front-end project built using the JavaScript framework React. The latest tech stack, including react-router-dom, Tailwind CSS, Redux, and Redux Toolkit, was utilized to develop this application.
+
+## Features:
+1. Search for order details
+2. Edit or delete items from the order cart
+
